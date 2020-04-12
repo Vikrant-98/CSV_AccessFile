@@ -29,6 +29,20 @@ namespace CSV_AccessFile
             {
                 Console.WriteLine($"{ person.Name } { person.Age } : { person.Gmail }");
             }
+            //new Data added in file
+            Console.WriteLine("--------------------------------------------------------------------");
+            people.Add(new Person { Name = "Aditya" , Age = "24" , Gmail = "Adtiyas.kulkarni@gmail.com"});
+            List<string> output = new List<string>();
+            foreach (var person in people)
+            {
+                output.Add($"{ person.Name },{ person.Age },{ person.Gmail }");
+            }
+            Console.WriteLine("Writing into the file");
+            File.WriteAllLines(filepath, output);
+            foreach (var person in people)
+            {
+                Console.WriteLine($"{ person.Name } { person.Age } : { person.Gmail }");
+            }
         }
     }
 }
