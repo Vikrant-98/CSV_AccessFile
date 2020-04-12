@@ -1,0 +1,11 @@
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\bin\Debug\netcoreapp2.1\CSV_AccessFile.deps.json
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\bin\Debug\netcoreapp2.1\CSV_AccessFile.runtimeconfig.json
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\bin\Debug\netcoreapp2.1\CSV_AccessFile.runtimeconfig.dev.json
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\bin\Debug\netcoreapp2.1\CSV_AccessFile.dll
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\bin\Debug\netcoreapp2.1\CSV_AccessFile.pdb
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\obj\Debug\netcoreapp2.1\CSV_AccessFile.csprojAssemblyReference.cache
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\obj\Debug\netcoreapp2.1\CSV_AccessFile.csproj.CoreCompileInputs.cache
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\obj\Debug\netcoreapp2.1\CSV_AccessFile.AssemblyInfoInputs.cache
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\obj\Debug\netcoreapp2.1\CSV_AccessFile.AssemblyInfo.cs
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\obj\Debug\netcoreapp2.1\CSV_AccessFile.dll
+C:\Users\The Daddy\source\repos\CSV_AccessFile\CSV_AccessFile\obj\Debug\netcoreapp2.1\CSV_AccessFile.pdb
