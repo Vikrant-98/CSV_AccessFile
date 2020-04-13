@@ -1,3 +1,3 @@
-Vikrant,22,vikrantchitte5398@gmail.com
-Vikey,19,chittevikey5@gmail.com
-Aditya,24,Adtiyas.kulkarni@gmail.com
+Vikrant,8605568556,vikrantchitte5398@gmail.com,India
+Vikey,9896445235,chittevikey5@gmail.com,India
+Aditya,9128933564,Adtiyas.kulkarni@gmail.com,USA

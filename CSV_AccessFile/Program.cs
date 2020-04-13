@@ -24,28 +24,29 @@ namespace CSV_AccessFile
                 Person newPerson = new Person();
 
                 newPerson.Name = entries[0];
-                newPerson.Age = entries[1];
-                newPerson.Mail = entries[2];
+                newPerson.Phone = entries[1];
+                newPerson.Email = entries[2];
+                newPerson.Country = entries[3];
 
                 people.Add(newPerson);
             }
             foreach (var person in people)
             {
-                Console.WriteLine($"{ person.Name } { person.Age } : { person.Mail }");
+                Console.WriteLine($"{ person.Name } { person.Phone } : { person.Email } { person.Country }");
             }
             //New Data added in file
             Console.WriteLine("--------------------------------------------------------------------");
-            people.Add(new Person { Name = "Aditya" , Age = "24" , Mail = "Adtiyas.kulkarni@gmail.com"});
+            people.Add(new Person { Name = "Aditya" , Phone = "9128933564", Email = "Adtiyas.kulkarni@gmail.com" , Country = "USA"});
             List<string> output = new List<string>();
             foreach (var person in people)
             {
-                output.Add($"{ person.Name },{ person.Age },{ person.Mail }");
+                output.Add($"{ person.Name },{ person.Phone },{ person.Email },{ person.Country }");
             }
             Console.WriteLine("Writing into the file");
             File.WriteAllLines(filepath, output);
             foreach (var person in people)
             {
-                Console.WriteLine($"{ person.Name } { person.Age } : { person.Mail }");
+                Console.WriteLine($"{ person.Name } { person.Phone } : { person.Email } : { person.Country }");
             }
         }
     }
